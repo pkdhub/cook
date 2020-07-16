@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2199",
+      "name": "美食",
+      "font_class": "meishi",
+      "unicode": "3458",
+      "unicode_decimal": 13400
+    },
+    {
+      "icon_id": "2121725",
+      "name": "美食",
+      "font_class": "meishi1",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "7843634",
+      "name": "美食",
+      "font_class": "fenzu",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "8987891",
+      "name": "美食",
+      "font_class": "meishi2",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
